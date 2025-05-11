@@ -30,12 +30,12 @@ function cekKelulusan() {
         margin-top: 24px;
         border: 1px solid #d0e6d2;
       ">
-        <p style="font-size: 1.3rem; font-weight: bold; color: #28a745; text-align: center; margin-bottom: 10px;">
-          👋 Halo, <strong>${result["NAMA LENGKAP"]}</strong>!
+        <p style="font-size: 1.3rem; font-weight: bold; color: #28a745; text-align: center; margin-bottom: 10px; margin-left: -35px; margin-right: -30px;">
+          👋Halo, <strong>${result["NAMA LENGKAP"]}</strong>!
         </p>
 
         <p style="font-weight: bold; margin-bottom: 12px; text-align: center; color: #1e7e34;">
-          <i class="fas fa-calendar-alt"></i> Jadwal Tes Kamu:
+          <i class="fas fa-calendar-alt"></i> Jadwal kamu Verifikasi Berkas dan Tes BTQ:
         </p>
 
         <p style="margin: 6px 0; text-align: left; color: #000; margin-left: 10px;">
